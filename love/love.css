@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    border-style: dotted;
+    border-color: red;
+    text-decoration-color: rgb(22, 201, 37);
+
+}
+
+#container {
+    margin: 20px auto;
+    width: 300px;
+    padding: 20px;
+    border: 1px solid blue;
+    border-radius: 5px;
+}
+
+#result {
+    font-size: 24px;
+    margin-top: 10px;
+}
